@@ -1,0 +1,4 @@
+spring.datasource:
+  url: "jdbc:postgresql://localhost:5432/geekbrains_shop"
+  username: "postgres"
+  password: "kmetha"
